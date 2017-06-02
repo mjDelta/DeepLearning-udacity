@@ -1,5 +1,5 @@
 # DeepLearning-udacity</br>
-优达学城的DeepLearning代码实现记录，主要包括内容：</br>
+优达学城的DeepLearning课程，基于tensorflow框架的Python实现，主要包括内容：</br>
 1.全连接网络实现</br>
 2.激活函数relu&sigmoid</br>
 3.正则化方法：dropout，梯度衰减，L2 Loss</br>
